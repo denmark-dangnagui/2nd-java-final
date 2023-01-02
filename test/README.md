@@ -1,3 +1,6 @@
+추가로 Diagram 폴더를 만들어서 api명세와 erd, 클래스 다이어그램을 넣어두었습니다!
+
+
 # STARTERS 취업부트캠프 최종평가(Java)
 
 ### 평가 안내 ([노션 링크](https://www.notion.so/flearnerhq/STARTERS-Java-8b1d1e267df64ff6921e24f966e2ea0e))
